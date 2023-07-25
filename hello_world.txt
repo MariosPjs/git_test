@@ -1,1 +1,3 @@
 hiya there it's a me :)
+ i am currenty learning git and the functions of git 
+ 
